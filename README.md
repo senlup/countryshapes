@@ -367,6 +367,290 @@ a "Western Sahara"
 i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/39.png"
 
 q "**Which country is this?**"
+a "Afghanistan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/159.png"
+
+q "**Which country is this?**"
+a "Armenia"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/163.png"
+
+q "**Which country is this?**"
+a "Azerbaijan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/171.png"
+
+q "**Which country is this?**"
+a "Bahrain"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/201.png"
+
+q "**Which country is this?**"
+a "Bangladesh"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/0.png"
+
+q "**Which country is this?**"
+a "Bhutan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/10.png"
+
+q "**Which country is this?**"
+a "Brunei"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/5.png"
+
+q "**Which country is this?**"
+a "Cambodia"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/117.png"
+
+q "**Which country is this?**"
+a "China"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/100.png"
+
+q "**Which country is this?**"
+a "Cyprus"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/108.png"
+
+q "**Which country is this?**"
+a "Timor-Leste", "East Timor"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/148.png"
+
+q "**Which country is this?**"
+a "Georgia"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/29.png"
+
+q "**Which country is this?**"
+a "India"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/169.png"
+
+q "**Which country is this?**"
+a "Indonesia"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/173.png"
+
+q "**Which country is this?**"
+a "Iran"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/162.png"
+
+q "**Which country is this?**"
+a "Iraq"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/160.png"
+
+q "**Which country is this?**"
+a "Israel"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/168.png"
+
+q "**Which country is this?**"
+a "Japan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/7.png"
+
+q "**Which country is this?**"
+a "Jordan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/42.png"
+
+q "**Which country is this?**"
+a "Kazakhstan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/64.png"
+
+q "**Which country is this?**"
+a "Kuwait"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/35.png"
+
+q "**Which country is this?**"
+a "Kyrgyzstan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/113.png"
+
+q "**Which country is this?**"
+a "Laos"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/142.png"
+
+q "**Which country is this?**"
+a "Lebanon"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/141.png"
+
+q "**Which country is this?**"
+a "Malaysia"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/81.png"
+
+q "**Which country is this?**"
+a "Maldives"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/226.png"
+
+q "**Which country is this?**"
+a "Mongolia"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/76.png"
+
+q "**Which country is this?**"
+a "Myanmar"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/74.png"
+
+q "**Which country is this?**"
+a "Nepal"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/96.png"
+
+q "**Which country is this?**"
+a "North Korea"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/122.png"
+
+q "**Which country is this?**"
+a "Oman"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/37.png"
+
+q "**Which country is this?**"
+a "Pakistan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/54.png"
+
+q "**Which country is this?**"
+a "The Philippines", "Philippines"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/55.png"
+
+q "**Which country is this?**"
+a "Qatar"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/175.png"
+
+q "**Which country is this?**"
+a "Saudi Arabia"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/127.png"
+
+q "**Which country is this?**"
+a "Singapore"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/233.png"
+
+q "**Which country is this?**"
+a "South Korea"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/120.png"
+
+q "**Which country is this?**"
+a "Sri Lanka"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/146.png"
+
+q "**Which country is this?**"
+a "Syria"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/112.png"
+
+q "**Which country is this?**"
+a "Tajikistan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/150.png"
+
+q "**Which country is this?**"
+a "Thailand"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/152.png"
+
+q "**Which country is this?**"
+a "Turkey"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/145.png"
+
+q "**Which country is this?**"
+a "Turkenistan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/149.png"
+
+q "**Which country is this?**"
+a "United Arab Emirates", "UAE"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/157.png"
+
+q "**Which country is this?**"
+a "Uzbekistan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/73.png"
+
+q "**Which country is this?**"
+a "Vietnam"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/165.png"
+
+q "**Which country is this?**"
+a "Yemen"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/134.png"
+
+q "**Which country is this?**"
+a "Palestine"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/48.png"
+
+q "**Which country is this?**"
+a "Taiwan"
+i "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/143.png"
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
+a ""
+i ""
+
+q "**Which country is this?**"
 a ""
 i ""
 
